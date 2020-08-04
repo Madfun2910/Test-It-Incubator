@@ -1,0 +1,25 @@
+.m-container {
+    position: absolute;
+    top: 30%;
+    left: 40%;
+  }
+  
+  .m-container img {
+    height: 100px;
+    width: 280px;
+    position: absolute;
+  }
+  
+  .m-container input,
+  button {
+    margin-top: 90px;
+    padding: 10px;
+  }
+  .m-container button {
+    background-color: rgb(4, 240, 4);
+  }
+  
+  .m-container input {
+    border: 1px solid red;
+    width: 250px;
+  }
